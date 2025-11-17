@@ -1,0 +1,6 @@
+Author: Floris Mooij
+Mod for: KSP
+
+Adds a button to every part allowing you to refill all its fuel.
+
+There are no options to turn it off, so you will have to remove the mod if you dont want it shown.
